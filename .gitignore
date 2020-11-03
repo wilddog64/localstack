@@ -44,3 +44,5 @@ requirements.copy.txt
 *.tfstate
 *.tfstate.*
 *tfplan
+.direnv
+.envrc
